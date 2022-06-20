@@ -1,0 +1,16 @@
+.Link {
+  padding: 20px;
+  margin-top: 30px;
+  max-width: 400px;
+}
+.Heading {
+  font-weight: 600;
+}
+
+.links {
+  display: block;
+  font-size: 1.1rem;
+  padding: 5px 0;
+  opacity: 0.9;
+  font-weight: 500;
+}

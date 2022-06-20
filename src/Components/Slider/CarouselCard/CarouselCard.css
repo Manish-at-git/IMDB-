@@ -1,0 +1,78 @@
+.car {
+  text-align: center;
+  width: 60%;
+  object-fit: cover;
+}
+
+.car {
+  position: relative;
+}
+
+/* .carousel-caption {
+  position: relative;
+} */
+
+.Carousel-Slider-image {
+  position: absolute;
+  bottom: 0;
+  left: 20px;
+}
+.Carousel-Slider-image img {
+  object-fit: cover;
+  height: 250px;
+}
+
+.add-bookmark {
+  color: white;
+  background-color: transparent;
+}
+
+.play-button {
+  position: absolute;
+  left: 220px;
+  bottom: 30px;
+}
+
+.text {
+  /* border: 1px solid red; */
+  position: absolute;
+  bottom: -20px;
+  width: 450px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.text h2 {
+  text-align: left;
+  font-size: 32px;
+  font-family: "Roboto", sans-serif;
+}
+
+.text p {
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: flex-start;
+  opacity: 0.9;
+}
+
+.add-bookmark-span {
+  background-color: #1a1a1a;
+  padding: 10px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.carousel-caption {
+  /* border: 1px solid red; */
+  position: absolute;
+  bottom: 0%;
+  left: 0;
+  right: 0;
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}

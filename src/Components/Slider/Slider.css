@@ -1,0 +1,16 @@
+.carouselCard {
+  width: 100%;
+  /* border: 10px solid red; */
+}
+
+/* .trailer-Swiper {
+  width: 60%;
+  height: 400px;
+} */
+.trailer-swiperSlide {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}

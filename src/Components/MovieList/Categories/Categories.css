@@ -1,0 +1,18 @@
+.categoryList:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.MovieList-sideBar {
+  font-family: Verdana, Arial, sans-serif;
+  background-color: #ececec;
+}
+
+hr {
+  margin: 2px;
+}
+
+.category h6 {
+  padding: 10px 0;
+  color: #333333;
+}

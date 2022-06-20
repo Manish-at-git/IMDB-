@@ -1,0 +1,19 @@
+.NavLinks {
+  padding: 30px 120px;
+  position: "absolute";
+  top: 0;
+  text-align: center;
+}
+
+.NavLink-logo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.LinkCards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+  padding: 20px;
+}

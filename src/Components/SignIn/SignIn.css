@@ -1,0 +1,41 @@
+.Login-main {
+  padding: 10px 50px;
+  background-color: #000;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  /* height: 100vh; */
+}
+
+.Login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Login-Icon {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.Sign-in-to-watchlist {
+  font-size: 16px;
+  font-weight: 600;
+  opacity: 0.9;
+}
+
+.Save-shows-and-movies {
+  font-size: 16px;
+  opacity: 0.9;
+}
+
+.Sign-in-to-IMDb {
+  text-decoration: none;
+  color: #000;
+  background-color: #f5c518;
+  padding: 6px 30px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: bold;
+  margin-top: 30px;
+}
